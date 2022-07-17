@@ -1,23 +1,36 @@
-<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <record>
-  	<Country>Justice for Victims of Corrupt Foreign Officials Regulations (JVCFOR) /  Règlement relatif à la justice pour les victimes de dirigeants étrangers corrompus (RJVDEC)</Country>
-  	<Entity>Air Bagan</Entity>
-  	<Aliases>Air Bagan Holdings Pte. Ltd., Air Bagan Limited</Aliases>
-  	<Schedule>14412233</Schedule>
-  	<Item>1</Item>
-  </record>
-  <record>
-  	<Country>Justice for Victims of Corrupt Foreign Officials Regulations (JVCFOR)</Country>
-  	<Entity>Hello</Entity>
-  	<Aliases>Avihai</Aliases>
-  	<Schedule>1</Schedule>
-  	<Item>2</Item>
-  </record>
-  <record>
-   <Country>Venezuela </Country>
-   <LastName>MADURO MOROS</LastName>
-   <GivenName>Nicolás</GivenName>
-   <Schedule>N/A</Schedule>
-   <Item>1</Item>
-   </record>
+<data-set
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Country>Justice for Victims of Corrupt Foreign Officials Regulations (JVCFOR) /  Règlement relatif à la justice pour les victimes de dirigeants étrangers corrompus (RJVDEC)</Country>
+		<Entity>Air Bagan</Entity>
+		<Aliases>Air Bagan Holdings Pte. Ltd., Air Bagan Limited</Aliases>
+		<Schedule>14412233</Schedule>
+		<Item>1</Item>
+	</record>
+	<record>
+		<Country>Justice for Victims of Corrupt Foreign Officials Regulations (JVCFOR)</Country>
+		<Entity>Hello</Entity>
+		<Aliases>Avihai</Aliases>
+		<Schedule>1</Schedule>
+		<Item>2</Item>
+	</record>
+	<record>
+		<Country>Venezuela </Country>
+		<LastName>MADURO MOROS</LastName>
+		<GivenName>Nicolás</GivenName>
+		<Schedule>N/A</Schedule>
+		<Item>1</Item>
+	</record>
+	<record>
+		<Country>Belarus / Bélarus</Country>
+		<Entity>Belarusbank</Entity>
+	</record>
+	<record>
+		<Country>Belarus / Bélarus</Country>
+		<Entity>Belagroprombank </Entity>
+	</record>
+	<record>
+		<Country>Belarus / Bélarus</Country>
+		<Entity>Beltamozhservice</Entity>
+	</record>
 </data-set>
